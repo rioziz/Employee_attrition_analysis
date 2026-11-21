@@ -1,0 +1,36 @@
+Employee_ID,Department,City,Job_Level,Work_Mode,Age,Tenure_Years,Monthly_Salary_INR,Avg_Weekly_Hours,Training_Hours_Last_Year,Last_Review_Date,Attrition_Risk_Score,Annual_Salary_INR,Risk_Category,Salary_Band
+E1158,Sales,Pune,Junior,Onsite,27.0,2.7,29000.0,52.2,31.0,2025-02-09,71.4,348000.0,High Risk,Low Salary
+E1106,Sales,Hyderabad,Junior,Onsite,27.5,3.4,45500.0,51.1,16.0,2024-11-30,75.6,546000.0,High Risk,Medium Salary
+E1005,Finance,Delhi,Mid,Hybrid,28.0,3.0,67500.0,50.3,12.0,2025-02-21,76.4,810000.0,High Risk,High Salary
+E1184,Engineering,Pune,Junior,Hybrid,22.0,0.8,35500.0,54.6,29.0,2026-04-28,71.9,426000.0,High Risk,Medium Salary
+E1153,Sales,Pune,Junior,Onsite,21.0,1.7,32000.0,53.6,28.0,2025-09-02,73.9,384000.0,High Risk,Medium Salary
+E1243,HR,Bengaluru,Mid,Onsite,33.0,1.3,54000.0,51.2,15.0,2025-01-26,90.6,648000.0,High Risk,High Salary
+E1137,Engineering,Pune,Junior,Remote,23.0,0.4,28500.0,55.6,25.0,2025-11-19,79.3,342000.0,High Risk,Low Salary
+E1238,Support,Bengaluru,Junior,Onsite,28.0,2.7,41500.0,42.0,8.0,2025-12-15,72.0,498000.0,High Risk,Medium Salary
+E1129,Sales,Hyderabad,Mid,Hybrid,28.0,1.7,66500.0,52.9,18.0,2025-12-19,71.6,798000.0,High Risk,High Salary
+E1220,Sales,Hyderabad,Junior,Hybrid,22.0,1.1,30000.0,44.3,19.0,2026-05-16,70.6,360000.0,High Risk,Low Salary
+E1039,Sales,Pune,Mid,Onsite,29.0,4.4,56000.0,45.9,22.0,2025-10-31,84.7,672000.0,High Risk,High Salary
+E1118,Engineering,Delhi,Junior,Hybrid,25.0,2.0,34000.0,42.0,40.0,2025-10-26,75.8,408000.0,High Risk,Medium Salary
+E1070,Support,Bengaluru,Junior,Hybrid,23.0,2.9,33000.0,48.3,24.0,2025-12-24,78.2,396000.0,High Risk,Medium Salary
+E1102,HR,Pune,Mid,Remote,26.0,2.3,53500.0,55.4,10.0,2025-07-29,77.6,642000.0,High Risk,High Salary
+E1171,Support,Pune,Mid,Hybrid,21.0,0.4,36500.0,45.7,32.0,2026-01-18,80.5,438000.0,High Risk,Medium Salary
+E1054,HR,Bengaluru,Mid,Remote,30.0,7.7,58000.0,46.1,25.0,2024-12-06,72.7,696000.0,High Risk,High Salary
+E1095,Engineering,Bengaluru,Junior,Onsite,29.0,1.4,28500.0,49.1,10.0,2026-10-10,70.5,342000.0,High Risk,Low Salary
+E1048,Support,Pune,Junior,Onsite,21.0,1.3,32500.0,49.1,13.0,2026-01-16,72.9,390000.0,High Risk,Medium Salary
+E1148,HR,Bengaluru,Junior,Hybrid,31.0,5.3,29000.0,53.3,35.0,2025-10-19,71.1,348000.0,High Risk,Low Salary
+E1014,Finance,Bengaluru,Mid,Hybrid,38.0,2.1,33000.0,50.0,39.0,2026-08-12,83.4,396000.0,High Risk,Medium Salary
+E1096,Finance,Hyderabad,Junior,Remote,25.0,2.1,30000.0,48.2,24.0,2025-02-10,79.0,360000.0,High Risk,Low Salary
+E1132,Sales,Hyderabad,Senior,Onsite,36.0,2.6,83500.0,54.7,25.0,2026-01-16,81.6,1002000.0,High Risk,Very High Salary
+E1146,Finance,Bengaluru,Junior,Onsite,21.0,1.8,32500.0,53.8,5.0,2025-01-09,70.0,390000.0,High Risk,Medium Salary
+E1036,Sales,Pune,Junior,Onsite,21.0,3.0,31000.0,53.2,17.0,2026-01-08,89.7,372000.0,High Risk,Medium Salary
+E1134,Sales,Pune,Junior,Onsite,27.0,3.1,37500.0,56.3,36.0,2025-05-02,76.2,450000.0,High Risk,Medium Salary
+E1064,Support,Pune,Junior,Onsite,21.0,0.3,50500.0,54.2,30.0,2025-07-26,72.7,606000.0,High Risk,High Salary
+E1189,Engineering,Bengaluru,Mid,Hybrid,29.0,3.4,88000.0,52.6,28.0,2025-08-29,73.5,1056000.0,High Risk,Very High Salary
+E1156,Sales,Chennai,Junior,Onsite,21.0,1.0,27000.0,45.7,40.0,2025-03-10,75.0,324000.0,High Risk,Low Salary
+E1017,Sales,Pune,Junior,Remote,26.0,1.3,42500.0,48.5,28.0,2025-05-11,74.7,510000.0,High Risk,Medium Salary
+E1108,Engineering,Chennai,Junior,Hybrid,21.0,1.3,34000.0,56.7,18.0,2026-08-16,73.3,408000.0,High Risk,Medium Salary
+E1090,Engineering,Delhi,Junior,Hybrid,23.0,1.0,30000.0,48.0,26.0,2025-04-24,78.8,360000.0,High Risk,Low Salary
+E1050,Engineering,Bengaluru,Junior,Remote,22.0,0.3,27000.0,44.8,24.0,2025-12-23,72.6,324000.0,High Risk,Low Salary
+E1175,Sales,Bengaluru,Junior,Hybrid,29.0,1.9,34500.0,51.3,19.0,2025-06-08,72.4,414000.0,High Risk,Medium Salary
+E1182,Sales,Bengaluru,Junior,Hybrid,21.0,1.2,26500.0,48.3,17.0,2026-01-18,74.3,318000.0,High Risk,Low Salary
+E1121,Support,Hyderabad,Junior,Onsite,24.0,1.1,24000.0,43.9,27.0,2025-02-21,71.4,288000.0,High Risk,Low Salary
