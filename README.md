@@ -125,21 +125,3 @@ employee-attrition-analysis/
 ---
 
 
-1. Clone the repository:
-```bash
-git clone <your-github-repo-link>
-cd employee-attrition-analysis
-
-```
-
-
-2. Install required Python libraries:
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-
-```
-.
-
-```
-
-```
